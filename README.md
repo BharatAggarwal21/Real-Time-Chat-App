@@ -6,3 +6,6 @@ After joining he will be displayed the people currently active in that room and 
 
 Setup:
 run "npm i && npm start" for both client and server side to start the development server.
+
+npm i installs all the packages required for running.
+npm start runs the command nodemon index.js and starts the client at localhost:3000 and server at localhost:5000.
